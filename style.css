@@ -1,0 +1,21 @@
+body{
+    background-image: url(images/22.jpg);
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+}
+
+.container div{
+    background-color: black;
+    margin: 9px;
+    padding: 9px;
+    
+}
+
+.h1{
+    text-align:center;
+}
